@@ -1,0 +1,4 @@
+
+Hostname: DESKTOP-UQOIM7D
+Platform: win32
+CPU Cores: 4
